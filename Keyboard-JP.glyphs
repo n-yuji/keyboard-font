@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-""
-);
 classes = (
 {
 automatic = 1;
@@ -28,7 +25,7 @@ name = licenseURL;
 value = "http://www.apache.org/licenses/LICENSE-2.0.html";
 }
 );
-date = "2014-12-22 13:05:00 +0000";
+date = "2015-01-06 09:58:42 +0000";
 designer = "Ryoko NISHIZUKA \U897F\U585A\U6DBC\U5B50 (kana & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Wenlong ZHANG \U5F20\U6587\U9F99 (bopomofo); Sandoll Communication \UC0B0\UB3CC\UCEE4\UBBA4\UB2C8\UCF00\UC774\UC158, Soo-young JANG \UC7A5\UC218\UC601 & Joo-yeon KANG \UAC15\UC8FC\UC5F0 (hangul elements, letters & syllables) ; n-yuji(modified)";
 familyName = "Keyboard-JP";
 featurePrefixes = (
@@ -40,8 +37,7 @@ name = Languagesystems;
 );
 features = (
 {
-automatic = 1;
-code = "sub P r i n t S c r e e n by P_r_i_n_t_S_c_r_e_e_n;\012sub S c r o l l L o c k by S_c_r_o_l_l_L_o_c_k;\012sub B a c k s p a c e by B_a_c_k_s_p_a_c_e;\012sub C a p s L o c k by C_a_p_s_L_o_c_k;\012sub P a g e D o w n by P_a_g_e_D_o_w_n;\012sub c a p s l o c k by c_a_p_s_l_o_c_k;\012sub p a g e d o w n by p_a_g_e_d_o_w_n;\012sub ka-hiragana ta-hiragana ka-hiragana na-katakana hi-hiragana ra-hiragana ga-hiragana na-hiragana by ka_ta_ka_na-katakana_hi_ra_ga_na-hiragana;\012sub C o m m a n d by C_o_m_m_a_n_d;\012sub C o n t r o l by C_o_n_t_r_o_l;\012sub N u m L o c k by N_u_m_L_o_c_k;\012sub W i n d o w s by W_i_n_d_o_w_s;\012sub c o m m a n d by c_o_m_m_a_n_d;\012sub c o n t r o l by c_o_n_t_r_o_l;\012sub D e l e t e by D_e_l_e_t_e;\012sub I n s e r t by I_n_s_e_r_t;\012sub O p t i o n by O_p_t_i_o_n;\012sub P a g e U p by P_a_g_e_U_p;\012sub R e t u r n by R_e_t_u_r_n;\012sub S E L E C T by S_E_L_E_C_T;\012sub d e l e t e by d_e_l_e_t_e;\012sub o p t i o n by o_p_t_i_o_n;\012sub p a g e u p by p_a_g_e_u_p;\012sub r e t u r n by r_e_t_u_r_n;\012sub B r e a k by B_r_e_a_k;\012sub E J E C T by E_J_E_C_T;\012sub E n t e r by E_n_t_e_r;\012sub P O W E R by P_O_W_E_R;\012sub P a u s e by P_a_u_s_e;\012sub S T A R T by S_T_A_R_T;\012sub S h i f t by S_h_i_f_t;\012sub S p a c e by S_p_a_c_e;\012sub S y s R q by S_y_s_R_q;\012sub c l e a r by c_l_e_a_r;\012sub e n t e r by e_n_t_e_r;\012sub s h i f t by s_h_i_f_t;\012sub s p a c e by s_p_a_c_e;\012sub uni534A uni89D2 slash uni5168 uni89D2 by uni534A_uni89D2_slash_uni5168_uni89D2;\012sub C a p s by C_a_p_s;\012sub C t r l by C_t_r_l;\012sub H o m e by H_o_m_e;\012sub P g D n by P_g_D_n;\012sub P g U p by P_g_U_p;\012sub c a p s by c_a_p_s;\012sub c t r l by c_t_r_l;\012sub h o m e by h_o_m_e;\012sub ro-katakana prolonged-kana ma-katakana uni5B57 by ro-katakana_prolonged-kana_ma-katakana_uni5B57;\012sub su-katakana pe-katakana prolonged-kana su-katakana by su_pe_prolonged-kana_su-katakana;\012sub A l t by A_l_t;\012sub C m d by C_m_d;\012sub D e l by D_e_l;\012sub E n d by E_n_d;\012sub E s c by E_s_c;\012sub F one zero by F_one_zero;\012sub F one one by F_one_one;\012sub F one two by F_one_two;\012sub F one three by F_one_three;\012sub F one four by F_one_four;\012sub F one five by F_one_five;\012sub F one six by F_one_six;\012sub F one seven by F_one_seven;\012sub F one eight by F_one_eight;\012sub F one nine by F_one_nine;\012sub I n s by I_n_s;\012sub T a b by T_a_b;\012sub a l t by a_l_t;\012sub d e l by d_e_l;\012sub e n d by e_n_d;\012sub e s c by e_s_c;\012sub i n s by i_n_s;\012sub t a b by t_a_b;\012sub uni7121 uni5909 uni63DB by uni7121_uni5909_uni63DB;\012sub filledbox filledbox filledbox by filledbox_filledbox_filledbox;\012sub F one by F_one;\012sub F two by F_two;\012sub F three by F_three;\012sub F four by F_four;\012sub F five by F_five;\012sub F six by F_six;\012sub F seven by F_seven;\012sub F eight by F_eight;\012sub F nine by F_nine;\012sub F n by F_n;\012sub G o by G_o;\012sub f n by f_n;\012sub uni5909 uni63DB by uni5909_uni63DB;\012sub uni6539 uni884C by uni6539_uni884C;\012sub uni6F22 uni5B57 by uni6F22_uni5B57;\012sub uni7A7A uni767D by uni7A7A_uni767D;\012sub uni82F1 uni6570 by uni82F1_uni6570;\012sub ka-hiragana na-hiragana by ka_na-hiragana;\012sub filledbox filledbox by filledbox_filledbox;\012";
+code = "sub P r i n t S c r e e n by P_r_i_n_t_S_c_r_e_e_n;\012sub S c r o l l L o c k by S_c_r_o_l_l_L_o_c_k;\012sub B a c k s p a c e by B_a_c_k_s_p_a_c_e;\012sub C a p s L o c k by C_a_p_s_L_o_c_k;\012sub P a g e D o w n by P_a_g_e_D_o_w_n;\012sub c a p s l o c k by c_a_p_s_l_o_c_k;\012sub p a g e d o w n by p_a_g_e_d_o_w_n;\012sub ka-katakana ta-katakana ka-katakana na-katakana hi-hiragana ra-hiragana ga-hiragana na-hiragana by ka_ta_ka_na-katakana_hi_ra_ga_na-hiragana;\012sub C o m m a n d by C_o_m_m_a_n_d;\012sub C o n t r o l by C_o_n_t_r_o_l;\012sub N u m L o c k by N_u_m_L_o_c_k;\012sub W i n d o w s by W_i_n_d_o_w_s;\012sub c o m m a n d by c_o_m_m_a_n_d;\012sub c o n t r o l by c_o_n_t_r_o_l;\012sub D e l e t e by D_e_l_e_t_e;\012sub I n s e r t by I_n_s_e_r_t;\012sub O p t i o n by O_p_t_i_o_n;\012sub P a g e U p by P_a_g_e_U_p;\012sub R e t u r n by R_e_t_u_r_n;\012sub S E L E C T by S_E_L_E_C_T;\012sub d e l e t e by d_e_l_e_t_e;\012sub o p t i o n by o_p_t_i_o_n;\012sub p a g e u p by p_a_g_e_u_p;\012sub r e t u r n by r_e_t_u_r_n;\012sub B r e a k by B_r_e_a_k;\012sub E J E C T by E_J_E_C_T;\012sub E n t e r by E_n_t_e_r;\012sub P O W E R by P_O_W_E_R;\012sub P a u s e by P_a_u_s_e;\012sub S T A R T by S_T_A_R_T;\012sub S h i f t by S_h_i_f_t;\012sub S p a c e by S_p_a_c_e;\012sub S y s R q by S_y_s_R_q;\012sub c l e a r by c_l_e_a_r;\012sub e n t e r by e_n_t_e_r;\012sub s h i f t by s_h_i_f_t;\012sub s p a c e by s_p_a_c_e;\012sub uni534A uni89D2 slash uni5168 uni89D2 by uni534A_uni89D2_slash_uni5168_uni89D2;\012sub C a p s by C_a_p_s;\012sub C t r l by C_t_r_l;\012sub H o m e by H_o_m_e;\012sub P g D n by P_g_D_n;\012sub P g U p by P_g_U_p;\012sub c a p s by c_a_p_s;\012sub c t r l by c_t_r_l;\012sub h o m e by h_o_m_e;\012sub ro-katakana prolonged-kana ma-katakana uni5B57 by ro-katakana_prolonged-kana_ma-katakana_uni5B57;\012sub su-katakana pe-katakana prolonged-kana su-katakana by su_pe_prolonged-kana_su-katakana;\012sub A l t by A_l_t;\012sub C m d by C_m_d;\012sub D e l by D_e_l;\012sub E n d by E_n_d;\012sub E s c by E_s_c;\012sub F one zero by F_one_zero;\012sub F one one by F_one_one;\012sub F one two by F_one_two;\012sub F one three by F_one_three;\012sub F one four by F_one_four;\012sub F one five by F_one_five;\012sub F one six by F_one_six;\012sub F one seven by F_one_seven;\012sub F one eight by F_one_eight;\012sub F one nine by F_one_nine;\012sub I n s by I_n_s;\012sub T a b by T_a_b;\012sub a l t by a_l_t;\012sub d e l by d_e_l;\012sub e n d by e_n_d;\012sub e s c by e_s_c;\012sub i n s by i_n_s;\012sub t a b by t_a_b;\012sub uni7121 uni5909 uni63DB by uni7121_uni5909_uni63DB;\012sub filledbox filledbox filledbox by filledbox_filledbox_filledbox;\012sub whitesquare whitesquare whitesquare by whitesquare_whitesquare_whitesquare;\012sub F one by F_one;\012sub F two by F_two;\012sub F three by F_three;\012sub F four by F_four;\012sub F five by F_five;\012sub F six by F_six;\012sub F seven by F_seven;\012sub F eight by F_eight;\012sub F nine by F_nine;\012sub F n by F_n;\012sub G o by G_o;\012sub f n by f_n;\012sub uni5909 uni63DB by uni5909_uni63DB;\012sub uni6539 uni884C by uni6539_uni884C;\012sub uni6F22 uni5B57 by uni6F22_uni5B57;\012sub uni7A7A uni767D by uni7A7A_uni767D;\012sub uni82F1 uni6570 by uni82F1_uni6570;\012sub ka-hiragana na-hiragana by ka_na-hiragana;\012sub filledbox filledbox by filledbox_filledbox;\012sub whitesquare whitesquare by whitesquare_whitesquare;\012";
 name = ccmp;
 },
 {
@@ -38203,63 +38199,8 @@ width = 1000;
 unicode = 30FC;
 },
 {
-glyphname = whitesquare_whitesquare;
-lastChange = "2014-10-25 13:12:01 +0000";
-layers = (
-{
-layerId = "F84F5EB2-94F9-4556-9B6C-C2D485160B3A";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"200 -75 LINE SMOOTH",
-"115 -75 OFFCURVE",
-"45 -5 OFFCURVE",
-"45 80 CURVE SMOOTH",
-"45 680 LINE SMOOTH",
-"45 765 OFFCURVE",
-"115 835 OFFCURVE",
-"200 835 CURVE SMOOTH",
-"1800 835 LINE SMOOTH",
-"1885 835 OFFCURVE",
-"1955 765 OFFCURVE",
-"1955 680 CURVE SMOOTH",
-"1955 80 LINE SMOOTH",
-"1955 -5 OFFCURVE",
-"1885 -75 OFFCURVE",
-"1800 -75 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"131 805 OFFCURVE",
-"75 749 OFFCURVE",
-"75 680 CURVE SMOOTH",
-"75 80 LINE SMOOTH",
-"75 11 OFFCURVE",
-"131 -45 OFFCURVE",
-"200 -45 CURVE SMOOTH",
-"1800 -45 LINE SMOOTH",
-"1869 -45 OFFCURVE",
-"1925 11 OFFCURVE",
-"1925 80 CURVE SMOOTH",
-"1925 680 LINE SMOOTH",
-"1925 749 OFFCURVE",
-"1869 805 OFFCURVE",
-"1800 805 CURVE SMOOTH",
-"200 805 LINE SMOOTH"
-);
-}
-);
-width = 2000;
-}
-);
-},
-{
 glyphname = whitesquare_whitesquare_whitesquare;
-lastChange = "2014-10-25 13:03:19 +0000";
+lastChange = "2015-01-06 09:54:20 +0000";
 layers = (
 {
 layerId = "F84F5EB2-94F9-4556-9B6C-C2D485160B3A";
@@ -38311,6 +38252,61 @@ nodes = (
 width = 3000;
 }
 );
+},
+{
+glyphname = whitesquare_whitesquare;
+lastChange = "2015-01-06 09:54:07 +0000";
+layers = (
+{
+layerId = "F84F5EB2-94F9-4556-9B6C-C2D485160B3A";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 -75 LINE SMOOTH",
+"115 -75 OFFCURVE",
+"45 -5 OFFCURVE",
+"45 80 CURVE SMOOTH",
+"45 680 LINE SMOOTH",
+"45 765 OFFCURVE",
+"115 835 OFFCURVE",
+"200 835 CURVE SMOOTH",
+"1800 835 LINE SMOOTH",
+"1885 835 OFFCURVE",
+"1955 765 OFFCURVE",
+"1955 680 CURVE SMOOTH",
+"1955 80 LINE SMOOTH",
+"1955 -5 OFFCURVE",
+"1885 -75 OFFCURVE",
+"1800 -75 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 805 OFFCURVE",
+"75 749 OFFCURVE",
+"75 680 CURVE SMOOTH",
+"75 80 LINE SMOOTH",
+"75 11 OFFCURVE",
+"131 -45 OFFCURVE",
+"200 -45 CURVE SMOOTH",
+"1800 -45 LINE SMOOTH",
+"1869 -45 OFFCURVE",
+"1925 11 OFFCURVE",
+"1925 80 CURVE SMOOTH",
+"1925 680 LINE SMOOTH",
+"1925 749 OFFCURVE",
+"1869 805 OFFCURVE",
+"1800 805 CURVE SMOOTH",
+"200 805 LINE SMOOTH"
+);
+}
+);
+width = 2000;
+}
+);
 }
 );
 instances = (
@@ -38320,5 +38316,5 @@ name = Regular;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
